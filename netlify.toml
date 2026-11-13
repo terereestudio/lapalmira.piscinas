@@ -1,0 +1,3 @@
+# Yatay Piscinas (proyecto conceptual de Tereré Estudio) — Netlify publica sitio/ sin build
+[build]
+  publish = "sitio"
